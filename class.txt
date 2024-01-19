@@ -1,16 +1,5 @@
 Crimson
 Orange
-<<<<<<< HEAD
-Blue
-Cyan
-Yellow
-Charcoal
-Khaki
-Coral
-Silver
-Fuchsia
-Purple
-=======
 Green
 Cyan
 Yellow
@@ -20,6 +9,5 @@ Coral
 silver
 Fuchsia
 Gray
->>>>>>> 56102d35cc19b51cbfe83aad93aa4ab4192b67a5
 Brown
 Red
