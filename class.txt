@@ -1,1 +1,13 @@
-Hello world!
+Crimson
+Orange
+Green
+Cyan
+Yellow
+Ivory
+Khaki
+Coral
+silver
+Fuchsia
+Gray
+Brown
+Red
